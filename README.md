@@ -66,6 +66,7 @@ ORDER BY industry, year DESC;
 ## 📊 Query Output
 
 ![SQL Query Output](query_output.png)
+
 *Figure 1: Query Output — Top 3 Industries with Yearly Unicorn Counts and Average Valuation ($B) (2019–2021).*
 
 ---
